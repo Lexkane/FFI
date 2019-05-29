@@ -1,7 +1,7 @@
 Calling Native Code from Python,Javascript and Ruby
 Interprocess Comunication Python with Javascript
 
-#Use makefile c/cpp/go to build object files
+Use makefile c/cpp/go to build object files
 
 Compile c code with 
 	gcc -c -fPIC main.c -o main.o
