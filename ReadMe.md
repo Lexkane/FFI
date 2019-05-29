@@ -1,5 +1,5 @@
-##Calling Native Code from Python,Javascript and Ruby
-##Interprocess Comunication Python with Javascript
+Calling Native Code from Python,Javascript and Ruby
+Interprocess Comunication Python with Javascript
 
 #Use makefile c/cpp/go to build object files
 
