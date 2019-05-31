@@ -24,6 +24,6 @@ Compile rust code with
 	cargo build --release
 
 
-#Now you can call native code from python,javascript,ruby
-#For javascript you should install ffi package
-#For ruby you should install ffi gem
+##Now you can call native code from python,javascript,ruby
+##For javascript you should install ffi package
+##For ruby you should install ffi gem
